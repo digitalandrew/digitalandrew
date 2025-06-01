@@ -2,4 +2,4 @@ Hi I'm DigitalAndrew! - I'm an Electrical Engineer working in Cybersecurity. You
 
 Checkout my profile for cool tools I'm working on. 
 
-You can find more info about what I'm working on at my website: digitalandrew.io
+You can find more info about what I'm working on at my website: [digitalandrew.io](https://digitalandrew.io)
